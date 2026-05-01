@@ -52,7 +52,7 @@
 | Project | Description | Tech Highlight |
 | :--- | :--- | :--- |
 | **🤖 DocuSphere** | A secure cloud document vault featuring an integrated AI DocuBot Assistant for seamless data retrieval and management. | *Generative AI, Gemini* |
-| **🌾 AgroChain** | A hybrid Web3 agricultural marketplace utilizing smart contracts for transparent and secure transactions. | *Solidity, Ethereum* |
+| **💊 MediCare** | A full-stack e-commerce pharmacy platform featuring real-time order tracking, secure Razorpay integration, and automated invoicing. | *Node.js, Express, MongoDB, Socket.io* |
 | **🌱 FarmConnect** | A farmer–buyer digital contract system. **(Research paper officially accepted & published in IJERT)**. | *Full Stack* |
 | **🧠 AI Smart Assistant** | An intelligent query-retrieval system equipped with real-time chat, voice interaction, and document-based Q&A. | *Agentic AI, Groq API* |
 
@@ -73,10 +73,10 @@
 ### ⚡ Current Focus & Goals
 
 *   🌱 **Currently Learning:** Deep diving into advanced Agentic AI workflows, LLM orchestration, and system design.
-*   🔭 **Currently Building:** More intelligent features for the *DocuSphere* ecosystem and scaling my Web3 projects.
-*   👯 **Open to Collaborate:** I am actively looking to contribute to open-source projects in the Generative AI and Blockchain space.
-*   💬 **Ask me about:** The MERN stack, Smart Contract deployment, and integrating AI into traditional web applications.
-*   🎯 **Future Goal:** Build tech that bridges the gap between decentralized networks and artificial intelligence.
+*   🔭 **Currently Building:** More intelligent features for the *DocuSphere* ecosystem and scaling my full-stack platforms.
+*   👯 **Open to Collaborate:** I am actively looking to contribute to open-source projects in the Generative AI and web development space.
+*   💬 **Ask me about:** The MERN stack, real-time application architecture, and integrating AI into web applications.
+*   🎯 **Future Goal:** Build tech that bridges the gap between scalable web infrastructure and artificial intelligence.
 
 <br>
 
