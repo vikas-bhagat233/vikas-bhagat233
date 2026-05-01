@@ -1,107 +1,102 @@
 <!-- 🌈 Animated Gradient Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Vikas%20Bhagat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Amey%20Bhagat&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <!-- 👋 Intro -->
+<div align="center">
+  <h1>Hi 👋, I'm Amey Bhagat</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+(MERN)+Developer;Blockchain+%26+Web3+Developer;Agentic+%26+Generative+AI+Enthusiast;Building+Scalable+Real-World+Systems" alt="Typing Animation" />
+  </p>
+  
+  <p>
+    <b>B.Tech Computer Engineering @ DBIT (Class of 2027)</b><br>
+    I build systems that are not just functional, but intelligent, scalable, and impactful.
+  </p>
+  
+  <p>
+    <a href="mailto:bhagatvikas554@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/vikas-bhagat-0b33723a8/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
-<h1 align="center">Hi 👋, I'm Vikas Bhagat</h1>
-
-<!-- 🔥 Typing Animation -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Developer;AI+%7C+Agentic+AI+Enthusiast;Building+Scalable+Real+World+Projects" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech Computer Engineering @ DBIT (2023–2027)
-* 💻 Full Stack Developer focused on real-world systems
-* 🤖 Exploring **Generative AI & Agentic AI**
-* ⛓️ Blockchain Developer (Ethereum + Smart Contracts)
-* 🎯 Building scalable, production-ready applications
-
----
-
-## 🌟 What I Do
-
-* Build full-stack applications with real-time features
-* Develop AI-powered systems (chat, automation, assistants)
-* Design clean, modern, user-focused interfaces
-* Work on blockchain-based decentralized apps
+<br>
 
 ---
 
-## 📂 Featured Work
+### 💻 Tech Stack & Tools
 
-### 🤖 AI Smart Assistant
+<div align="center">
+  <p><strong>Languages & Core</strong></p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
+  
+  <p><strong>Full Stack (MERN)</strong></p>
+  <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,tailwind" />
+  
+  <p><strong>Web3 & Blockchain</strong></p>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+  
+  <p><strong>Tools & Deployment</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,postman" />
+</div>
 
-A full-stack AI system with real-time chat, voice interaction, and document-based Q&A.
-
-### 📄 DocuSphere — AI Document Vault
-
-Secure document platform with AI-powered assistant and cloud deployment.
-
-### 🌾 FarmConnect (Research Project)
-
-Farmer–buyer contract system with published research (IJERT).
-
----
-
-## 🏆 Achievements
-
-* 📄 Research Paper Published (IJERT)
-* ⛓️ Ethereum Blockchain Developer Certified
-* 🚀 Built production-level full-stack + AI systems
+<br>
 
 ---
 
-## 📊 GitHub Insights
+### 🚀 Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat233&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Tech Highlight |
+| :--- | :--- | :--- |
+| **🤖 DocuSphere** | A secure cloud document vault featuring an integrated AI DocuBot Assistant for seamless data retrieval and management. | *Generative AI, Gemini* |
+| **🌾 AgroChain** | A hybrid Web3 agricultural marketplace utilizing smart contracts for transparent and secure transactions. | *Solidity, Ethereum* |
+| **🌱 FarmConnect** | A farmer–buyer digital contract system. **(Research paper officially accepted & published in IJERT)**. | *Full Stack* |
+| **🧠 AI Smart Assistant** | An intelligent query-retrieval system equipped with real-time chat, voice interaction, and document-based Q&A. | *Agentic AI, Groq API* |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-bhagat233&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Live)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<br>
 
 ---
 
-## 🌐 Connect With Me
+### 🏆 Milestones & Achievements
 
-<p align="center">
-<a href="mailto:bhagatvikas554@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://www.linkedin.com/in/vikas-bhagat-0b33723a8/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
+*   🎓 **Research Published:** Authored and published a research manuscript for *FarmConnect* in the IJERT journal.
+*   ⛓️ **Web3 Certified:** Certified Ethereum Blockchain Developer with hands-on smart contract experience.
+*   🚀 **Production-Ready Builds:** Consistently designing end-to-end full-stack architectures merged with AI integrations.
+
+<br>
 
 ---
 
-## ⚡ Developer Mindset
+### 📊 GitHub Insights
 
-> "I build systems that are not just functional, but intelligent, scalable, and impactful."
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat233&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-bhagat233&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
 
 ---
 
-## 👀 Profile Views
+<!-- 👀 Profile Views & Footer -->
+<div align="center">
+  <p>Thanks for dropping by! Profile Views:</p>
+  <img src="https://visitcount.itsvg.in/api?id=vikas-bhagat233&icon=5&color=12" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vikas-bhagat233&icon=5&color=12" />
-</p>
-
-<!-- 🌈 Footer -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%" />
