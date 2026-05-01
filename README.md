@@ -72,7 +72,7 @@ Farmer–buyer contract system with published research (IJERT).
 ## 🐍 Contribution Snake (Live)
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -83,8 +83,8 @@ Farmer–buyer contract system with published research (IJERT).
 <a href="mailto:bhagatvikas554@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://www.linkedin.com/in/vikas-bhagat-0b33723a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuH86HyrMQwK8hXBP8BHGUQ%3D%3D">
-  <img src="https://skillicons.dev/icons?i=linkedi" />
+<a href="https://www.linkedin.com/in/vikas-bhagat-0b33723a8/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
