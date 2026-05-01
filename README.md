@@ -70,22 +70,14 @@
 
 ---
 
-### 📊 GitHub Insights
+### ⚡ Current Focus & Goals
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat233&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-bhagat233&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+*   🌱 **Currently Learning:** Deep diving into advanced Agentic AI workflows, LLM orchestration, and system design.
+*   🔭 **Currently Building:** More intelligent features for the *DocuSphere* ecosystem and scaling my Web3 projects.
+*   👯 **Open to Collaborate:** I am actively looking to contribute to open-source projects in the Generative AI and Blockchain space.
+*   💬 **Ask me about:** The MERN stack, Smart Contract deployment, and integrating AI into traditional web applications.
+*   🎯 **Future Goal:** Build tech that bridges the gap between decentralized networks and artificial intelligence.
 
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
 <br>
 
 ---
