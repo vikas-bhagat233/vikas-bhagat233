@@ -99,7 +99,7 @@ Farmer–buyer contract system with published research (IJERT).
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikas-bhagat233&label=Profile+Views&color=8A2BE2&style=flat-square" />
+  <img src="https://visitcount.itsvg.in/api?id=vikas-bhagat233&icon=5&color=12" />
 </p>
 
 <!-- 🌈 Footer -->
