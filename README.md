@@ -1,5 +1,5 @@
 <!-- 🌈 Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Amey%20Bhagat&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Vikas%20Bhagat&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <!-- 👋 Intro -->
 <div align="center">
@@ -73,8 +73,8 @@
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat233&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-bhagat233&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat233&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas-bhagat233&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
@@ -96,7 +96,7 @@
 <!-- 👀 Profile Views & Footer -->
 <div align="center">
   <p>Thanks for dropping by! Profile Views:</p>
-  <img src="https://visitcount.itsvg.in/api?id=vikas-bhagat233&icon=5&color=12" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vikas-bhagat233&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer" width="100%" />
