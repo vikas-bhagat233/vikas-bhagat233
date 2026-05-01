@@ -72,7 +72,7 @@ Farmer–buyer contract system with published research (IJERT).
 ## 🐍 Contribution Snake (Live)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -92,14 +92,14 @@ Farmer–buyer contract system with published research (IJERT).
 
 ## ⚡ Developer Mindset
 
-> “I build systems that are not just functional, but intelligent, scalable, and impactful.”
+> "I build systems that are not just functional, but intelligent, scalable, and impactful."
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikas-bhagat233&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://visitcount.itsvg.in/api?id=vikas-bhagat233&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
 
 <!-- 🌈 Footer -->
