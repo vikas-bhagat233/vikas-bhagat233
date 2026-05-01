@@ -3,7 +3,7 @@
 
 <!-- 👋 Intro -->
 <div align="center">
-  <h1>Hi 👋, I'm Amey Bhagat</h1>
+  <h1>Hi 👋, I'm Vikas Bhagat</h1>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+(MERN)+Developer;Blockchain+%26+Web3+Developer;Agentic+%26+Generative+AI+Enthusiast;Building+Scalable+Real-World+Systems" alt="Typing Animation" />
   </p>
