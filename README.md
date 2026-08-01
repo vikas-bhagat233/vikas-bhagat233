@@ -91,7 +91,7 @@ ask_me_about: [MERN stack, real-time architecture, AI in web apps, cloud deploym
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FireBase-003B57?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/FireBase-003B57?style=for-the-badge&logo=firebase&logoColor=orange" />
 </p>
 
 <p align="center">
