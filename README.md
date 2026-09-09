@@ -1,5 +1,5 @@
-<!-- 🌈 Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E4&height=220&section=header&text=Vikas%20Bhagat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Agentic%20AI%20%7C%20Cloud%20%7C%20Web3&descAlignY=58&descSize=18" width="100%" />
+<!-- 🌈 Animated Gradient Header (twinkling = "lit up" effect) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E4&height=220&section=header&text=Vikas%20Bhagat&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Agentic%20AI%20%7C%20Cloud%20%7C%20Web3&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+(MERN)+Developer;Blockchain+%26+Web3+Developer;Agentic+%26+Generative+AI+Enthusiast;Cloud+%26+Automation+Enthusiast;Building+Scalable+Real-World+Systems" alt="Typing Animation" />
@@ -114,7 +114,26 @@ ask_me_about: [MERN stack, real-time architecture, AI in web apps, cloud deploym
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E4,100:00F7FF&height=3&width=100%" width="100%" />
 
-## 📊 GitHub Stats
+## 🌟 Live Activity
+
+<!--
+  These two widgets are TRUE "live" status — they auto-refresh on a schedule
+  via GitHub Actions (metrics.yml and profile3d.yml). Nothing to configure
+  beyond adding the workflow files once; see setup notes below.
+-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/main/metrics.svg" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3&width=100%" width="100%" />
+
+## 📊 GitHub Stats & Streak
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vikas-bhagat233&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=c9d1d9" />
@@ -134,9 +153,8 @@ ask_me_about: [MERN stack, real-time architecture, AI in web apps, cloud deploym
 </div>
 
 <!--
-  🐍 Contribution Snake — this only renders AFTER the one-time GitHub Actions
-  setup below has run at least once and pushed to the "output" branch.
-  See the "Fixing the Snake Graph" section at the bottom of this file.
+  🐍 Contribution Snake — renders after the one-time GitHub Actions
+  setup (snake.yml) runs once and pushes to the "output" branch.
 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -250,4 +268,4 @@ Certified Ethereum Blockchain projects — hands-on smart contract development a
   <img src="https://komarev.com/ghpvc/?username=vikas-bhagat233&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" height="35" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E4,50:8A2BE2,100:00F7FF&height=150&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E4,50:8A2BE2,100:00F7FF&height=150&section=footer&animation=twinkling" width="100%" />
