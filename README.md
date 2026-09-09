@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=vikas-bhagat233&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" height="28" />
   <img src="https://img.shields.io/github/followers/vikas-bhagat233?style=for-the-badge&color=00F7FF&labelColor=black" height="28" />
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-8A2BE2?style=for-the-badge&labelColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Open_to-Collaborate-FF00E4?style=for-the-badge&labelColor=black" height="28" />
 </p>
 
 <p align="center">
@@ -25,6 +26,8 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3&width=100%" width="100%" />
+
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -39,19 +42,28 @@ open_to_collaborate: true
 ask_me_about: [MERN stack, real-time architecture, AI in web apps, cloud deployment]
 ```
 
-<br>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF00E4&height=3&width=100%" width="100%" />
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,vite,html,css,tailwind,nodejs,express,fastapi,flask,mongodb,mysql,postgres,sqlite,firebase,aws,docker,git,github,vscode,postman&perline=12" />
+</p>
+
+<details>
+<summary><b>🔎 Full breakdown by category (click to expand)</b></summary>
+<br>
+
+<p align="center">
+  <b>AI / GenAI</b><br>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-00F7FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 <p align="center">
@@ -71,18 +83,6 @@ ask_me_about: [MERN stack, real-time architecture, AI in web apps, cloud deploym
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>AI / GenAI</b><br>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-00F7FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 <p align="center">
@@ -110,9 +110,9 @@ ask_me_about: [MERN stack, real-time architecture, AI in web apps, cloud deploym
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-<br>
+</details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E4,100:00F7FF&height=3&width=100%" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -133,12 +133,14 @@ ask_me_about: [MERN stack, real-time architecture, AI in web apps, cloud deploym
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-bhagat233&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=ffffff" width="100%" />
 </div>
 
+<!--
+  🐍 Contribution Snake — this only renders AFTER the one-time GitHub Actions
+  setup below has run at least once and pushed to the "output" branch.
+  See the "Fixing the Snake Graph" section at the bottom of this file.
+-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/vikas-bhagat233/vikas-bhagat233/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
-<br>
-
-> 💡 The snake animation above needs a tiny one-time GitHub Actions setup (I'll walk you through it if you want it live).
 
 <br>
 
@@ -195,16 +197,31 @@ AI-powered video conferencing and team collaboration platform with real-time tra
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🧘 Serenity
+Meditation web app with six pranayama techniques, breathing animation widget, and a community quotes wall.
+<br><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+</td>
+<td width="50%">
+
+### ⛓️ Web3 Smart Contracts
+Certified Ethereum Blockchain projects — hands-on smart contract development and deployment.
+<br><img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+
+</td>
+</tr>
 </table>
 
-<br>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00E4&height=3&width=100%" width="100%" />
 
 ## 🏆 Milestones & Achievements
 
 *   ⛓️ **Web3 Certified:** Certified Ethereum Blockchain Developer with hands-on smart contract experience.
 *   🚀 **Production-Ready Builds:** Consistently designing end-to-end full-stack architectures merged with AI integrations.
+*   🧩 **Multi-Agent Systems:** Shipped a LangGraph-based multi-agent pipeline (CrisisMind AI) for real-time analysis.
 
 <br>
 
